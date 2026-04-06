@@ -1,8 +1,8 @@
-# 🏥 MediSecure AI — Role-Aware Hybrid RAG System for Healthcare
+# 🏥 MediCare AI — Role-Aware Hybrid RAG System for Healthcare
 
 ## 📌 Overview
 
-MediSecure AI is a **role-aware, retrieval-augmented healthcare assistant** designed to enable secure and intelligent interaction with Electronic Health Records (EHRs).
+MediCare AI is a **role-aware, retrieval-augmented healthcare assistant** designed to enable secure and intelligent interaction with Electronic Health Records (EHRs).
 
 Unlike basic RAG systems, this project implements a **multi-stage hybrid retrieval pipeline with RBAC enforced at the ML layer**, ensuring both **accuracy and data privacy**.
 
@@ -189,7 +189,7 @@ Healthcare AI systems must balance:
 * privacy
 * interpretability
 
-MediSecure AI explores how modern AI pipelines can achieve this by integrating:
+MediCare AI explores how modern AI pipelines can achieve this by integrating:
 
 * secure retrieval
 * structured filtering
